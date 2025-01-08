@@ -1,31 +1,28 @@
-# 👋 Hello, I'm Jacques Matthieu
+# 👋 Hello, I’m Jacques Matthieu
 
-I'm a Lead Front-End Developer based in Paris, France, with a proven track record of creating sleek, user-friendly web applications. Passionate about innovation and detail-oriented design, I thrive on transforming ideas into digital experiences that captivate and engage users.
+I am a **freelance frontend developer** based in the Paris region, with recognized experience in creating elegant and user-friendly web applications. Passionate about innovation and precise design, I excel at transforming ideas into captivating digital experiences that engage users.
 
 ## 🔧 My Expertise
 
-- **Front-End Magic:** HTML, CSS, JavaScript, React, Vue.js  
-- **Back-End Knowledge:** Node.js, Express  
-- **Collaborative Tools:** Git, GitHub  
-- **Optimization Skills:** Webpack, Babel, npm  
+### Front-End  
+I work primarily with [Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat), ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff), and ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC).
 
-Whether it’s crafting a dynamic single-page application or optimizing performance for your existing platform, I bring dedication and expertise to every project.
+### Back-End  
+I use ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat), ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat), ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white), and ![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) for my personal projects.
+
+Whether it's designing a dynamic **single-page** application or optimizing the performance of your existing platform, I bring dedication and expertise to every project.
 
 ## 🤝 Let’s Work Together
 
-Looking for a highly skilled developer to bring your vision to life? I'm currently open to **freelance opportunities**! I specialize in building modern, scalable web solutions tailored to your needs. Let's team up to create something exceptional.
+Looking for a highly skilled developer to bring your vision to life? I am currently open to **freelance opportunities**! I specialize in creating modern, scalable web solutions tailored to your needs. Let’s collaborate to build something exceptional.
 
-## 📈 GitHub Stats
+## 📫 Get in Touch
 
-![Jacques Matthieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacquesmatthieu&show_icons=true&theme=radical)
-
-## 📫 Contact Me
-
-The best collaborations start with a conversation! Feel free to reach out via any of the following:
+The best collaborations start with a conversation! Feel free to contact me via any of the following:
 
 - **Email:** [hello@frontendeveloper.fr](mailto:hello@frontendeveloper.fr)  
 - **Website:** [frontendeveloper.fr](https://frontendeveloper.fr)  
 - **LinkedIn:** [linkedin.com/in/jacquesmatthieu](https://www.linkedin.com/in/jacquesmatthieu/)  
 - **GitHub:** [github.com/jacquesmatthieu](https://github.com/jacquesmatthieu)  
 
-📩 **Don't hesitate to get in touch**—whether you have a project in mind, need advice, or just want to connect. Let's create something amazing together!
+📩 **Don’t hesitate to reach out**—whether to discuss a project, ask for advice, or simply connect. Let’s create something amazing together!
